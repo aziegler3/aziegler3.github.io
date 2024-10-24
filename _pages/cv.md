@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vita"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,15 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
+* * *
+
+<p>A research scientist in the Department of Entomology since 1996 and group leader of the Applied Spatial Ecology and Technical Services (ASETS) laboratory. Proven experience in budget construction and management; coordinating program-level activities among cooperating federal and state agencies; and supervision of staff members.  Extensive knowledge of the current state of GIS, database, and information technologies.  An intuitive understanding of technological trends and the effective use of technology for successful project and program delivery.  Comfortable public speaker and a proven ability to bridge the gap between technical and non-technical people.</p>
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.A. 1990, Geography (emphasis Geographic Information Systems and Remote Sensing applications to Zoogeography) from the State University of New York, University at Albany. Major Professor:  Dr. F. M. Henderson.
+* Certificate of Advanced Study in Geographic Information Systems and Spatial Analysis. 1990, from the State University of New York, University at Albany.
+* B.S.    1988, Geography major (emphasis Biogeography) from the State University of New York, College at Cortland. Supporting concentrations in Environmental Science, Biology, and Computer Science. Major Professor:  Dr. David L. Miller.
+
+Research Interests
+======
+Application of GIS, remote sensing, database, and information technologies to environmental, zoogeographic, and landscape ecological issues. Spatial analysis of landscapes using GIS and remote sensing.  Influence of landscape structure on the distribution and abundance of species.  Design and implementation of large-scale invasive species survey and associated data and program management.
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* 9/08 - Present  Academic Specialist (Research), Applied Spatial Ecology and Technical Services Laboratory, Department of Entomology, Michigan State University.
   * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
