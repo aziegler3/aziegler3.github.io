@@ -12,9 +12,9 @@ redirect_from:
 * * *
 
 > Principle investigator (PI) and group leader of the Applied Spatial Ecology and Technical Services (ASETS) research group since initiating development of the research program in 2008. Currently PI on national, regional and state level research initiatives focusing on the development and implementation of geospatial technologies for the investigation of invasive species population dynamics and mitigation strategies.
-
+>
 Current active research projects include national strategies for the monitoring and management of spongy moth; management of the emerald ash borer through biological control treatments; and the development of data management strategies for the large-scale survey and mitigation of invasive species.
-
+>
 He is a regular cooperator with state and federal agencies on the issues of invasive species monitoring and mitigation.
 
 Education
