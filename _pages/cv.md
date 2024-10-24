@@ -11,7 +11,7 @@ redirect_from:
 
 * * *
 
-<p>A research scientist in the Department of Entomology since 1996 and group leader of the Applied Spatial Ecology and Technical Services (ASETS) laboratory. Proven experience in budget construction and management; coordinating program-level activities among cooperating federal and state agencies; and supervision of staff members.  Extensive knowledge of the current state of GIS, database, and information technologies.  An intuitive understanding of technological trends and the effective use of technology for successful project and program delivery.  Comfortable public speaker and a proven ability to bridge the gap between technical and non-technical people.</p>
+> A research scientist in the Department of Entomology since 1996 and group leader of the Applied Spatial Ecology and Technical  Services (ASETS) laboratory. Proven experience in budget construction and management; coordinating program-level activities among cooperating federal and state agencies; and supervision of staff members.  Extensive knowledge of the current state of GIS, database, and information technologies.  An intuitive understanding of technological trends and the effective use of technology for successful project and program delivery.  Comfortable public speaker and a proven ability to bridge the gap between technical and non-technical people.</p>
 
 Education
 ======
