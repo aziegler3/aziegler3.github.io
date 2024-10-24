@@ -11,7 +11,11 @@ redirect_from:
 
 * * *
 
-> A research scientist in the Department of Entomology since 1996 and group leader of the [Applied Spatial Ecology and Technical  Services](https://www.asets.msu.edu) (ASETS) laboratory. Proven experience in budget construction and management; coordinating program-level activities among cooperating federal and state agencies; and supervision of staff members.  Extensive knowledge of the current state of GIS, database, and information technologies.  An intuitive understanding of technological trends and the effective use of technology for successful project and program delivery.  Comfortable public speaker and a proven ability to bridge the gap between technical and non-technical people.</p>
+> Principle investigator (PI) and group leader of the Applied Spatial Ecology and Technical Services (ASETS) research group since initiating development of the research program in 2008. Currently PI on national, regional and state level research initiatives focusing on the development and implementation of geospatial technologies for the investigation of invasive species population dynamics and mitigation strategies.
+
+Current active research projects include national strategies for the monitoring and management of spongy moth; management of the emerald ash borer through biological control treatments; and the development of data management strategies for the large-scale survey and mitigation of invasive species.
+
+He is a regular cooperator with state and federal agencies on the issues of invasive species monitoring and mitigation.
 
 Education
 ======
